@@ -389,5 +389,5 @@ public class KafkaApplication {
 
 
 
-### 3.7 启动kafka Tool 查看
+### 3.7 kafka[同步/异步生产消息](https://blog.csdn.net/weixin_34236497/article/details/91530220)
 
